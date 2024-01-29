@@ -1,0 +1,9 @@
+AOP
+intercept all methods or class by creating different aspects like loggerAspect
+compile time
+    Advice - what code to be excuted like logging, authentication,
+    PointCut - which methods need to be intercept
+    Aspect -combination of above both
+    weaver - framework that implemnts aop
+runtime-
+  Join Point
