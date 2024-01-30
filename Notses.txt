@@ -7,3 +7,10 @@ compile time
     weaver - framework that implemnts aop
 runtime-
   Join Point
+
+
+docker container run -d -p 5000:5000 ashutosh/hello-world-python:0.0.1.RELEASE
+1. create an aws account
+2. set the IAM user
+3. create the ec2 instance and launch it by selecting the nearest regions and key pairs edit some settings in security group also. add the enviroment also in tags
+4. create elastic bean stalk PaaS
